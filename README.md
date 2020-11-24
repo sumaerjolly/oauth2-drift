@@ -67,7 +67,7 @@ if (!isset($_GET['code'])) {
 
 ### Managing Scopes
 
-When creating your Asana authorization URL, you can specify the state and scopes your application may authorize.
+When creating your Drift authorization URL, you can specify the state and scopes your application may authorize.
 
 ```php
 $options = [
