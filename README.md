@@ -1,18 +1,18 @@
-# Asana Online Provider for OAuth 2.0 Client
+# Drift Online Provider for OAuth 2.0 Client
 
-This package provides Asana OAuth 2.0 support for the PHP League's [OAuth 2.0 Client](https://github.com/thephpleague/oauth2-client).
+This package provides Drift OAuth 2.0 support for the PHP League's [OAuth 2.0 Client](https://github.com/thephpleague/oauth2-client).
 
 ## Installation
 
 To install, use composer:
 
 ```
-composer require sumaerjolly/oauth2-asana
+composer require sumaerjolly/oauth2-drift
 ```
 
 ### Usage
 
-Usage is the same as The League's OAuth client, using `\SumaerJolly\OAuth2\Client\Provider\Asana` as the provider.
+Usage is the same as The League's OAuth client, using `\SumaerJolly\OAuth2\Client\Provider\Drift` as the provider.
 
 ### Authorization Code Flow
 
